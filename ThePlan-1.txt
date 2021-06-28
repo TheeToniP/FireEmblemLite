@@ -1,3 +1,8 @@
 Goal: Mini Fire Emblem
 Focus RN:Weapons (Rock paper scissors)
 Sword/axe/lance BUT lance/sword
+Evantually, make everything automated and clean 
+    ex = characters have their weapons. players for the rounds are 
+        chosen. characters fight
+Later: Make it a bit more like FE. How tho--TBD
+RN tho: Ref zoo hw and make these interactions CLEANER B/C YUCK
