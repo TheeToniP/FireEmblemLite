@@ -10,18 +10,24 @@ Focus RN:Weapons (Rock paper scissors)
 
 1) Characters chosen at random
 2) Winner/Loser chosen based on weapon type (print message)
-3* Eventually add critical points, health, block attacks, healing (Healers)
+3* Eventually add critical points, health, block attacks, healing (Healers), 
+    luck. 
 4* Make character turn sequence (👀) (Ike -> Marth -> Roy)  
     ex = characters have their weapons. players for the rounds are 
         chosen. characters fight
 
 
-Later: Make it a bit more like FE. How tho--TBD
-RN tho (Ref zoo hw and make these interactions CLEANER B/C YEEEEEUHCK)
+RN: (Ref zoo hw and make these interactions CLEANER B/C YEEEEEUHCK)
 
-character class (name, health, weapon)
+character class (name, health*(Later) weapon)
 characters class (keeps a record of characters, like animals in a zooo)
  - list with the names INSIDE the class 
  -make characters, them add them to the char list in the class
     - see if you can make a loop for the range of len(list) that pulls up 
     weapons. 
+
+Next: add teams, an "exit" or "quit" command in while loop, 
+a welcome/start, health attribute to character class ,
+Later: Make it a bit more like FE. How tho--TBD. Numbers with weapons 
+in a dictionary (TBD) OR just make it based on the fight stats--> Name it "firefightlite" 
+LOOK THE GAME THAT YOU MADE FALL SEMESTER
